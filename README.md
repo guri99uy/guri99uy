@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Gervasio Ramirez</h1>
+<h1 align="center">Hey there, I'm Gervasio Ramirez</h1>
 
 <p align="center"><em>MSc Data Science candidate at LSE | Industrial Engineer | Turning data into sustainable impact</em></p>
 
@@ -21,7 +21,7 @@
 | Degree | Institution | Years | Highlights |
 |--------|-------------|-------|------------|
 | MSc Data Science | LSE, UK | 2024-2025 | Statistical Methods, ML & Data Mining, Big Data, AI, Deep Learning |
-| BSc Industrial Engineering | University of Montevideo, UY | 2017-2022 | First-Class Honours; automation & energy-systems focus |
+| BSc Industrial Engineering | University of Montevideo, UY | 2017-2022 | Process optimization, automation & energy-systems focus |
 
 ---
 
