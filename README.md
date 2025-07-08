@@ -48,51 +48,47 @@
 
 ## 🛠️ Tech Stack
 
-### Languages  
+### Languages & Query  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![VBA](https://img.shields.io/badge/VBA-222222?style=flat-square)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
-### Libraries & Frameworks  
+### Analytics & BI  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![GA4](https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=google-analytics&logoColor=white)
+
+### Frameworks & Libraries  
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-EC0000?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-2E86C1?style=flat-square)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 ### Big Data & Cloud  
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apache-hadoop&logoColor=black)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+### Project Management  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+
+### Enterprise & Industrial  
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![SCADA](https://img.shields.io/badge/SCADA-4D4D4D?style=flat-square)
+![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-EB3C00?style=flat-square&logo=microsoftoffice&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
 
-> **Note:** Stats below use my public-repo activity — private/academic work excluded.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gervasioramirez&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+###  Fun Facts
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gervasioramirez&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gervasioramirez&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-### ⚡ Fun Facts
-
-- 🏉 Former rugby captain & still coaching grassroots teams on weekends.  
+- 🏉 Former rugby player & coach of grassroots teams on weekends.  
 - 🌍 Passionate about sustainable energy & using data for social impact.  
-- ⛰️ Avid trekker who believes the best ideas happen outdoors.
+- ⛰️ Avid trekker and off-road biker.
 
 <!-- Feel free to add visitor badges or more sections as you build your profile -->
