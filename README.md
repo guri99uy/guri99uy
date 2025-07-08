@@ -4,10 +4,6 @@
 
 <p align="center"><strong>Machine Learning • Causal Inference • Energy Analytics • Process Optimisation</strong></p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gervasioramirez/gervasioramirez/main/assets/data-scientist.svg" width="350" alt="Data scientist illustration" />
-</p>
-
 ---
 
 ## 🚀 What I'm Up To
