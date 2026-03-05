@@ -8,11 +8,10 @@
 
 ## 🚀 What I'm Up To
 
-- 🔬 **Researching:** Disaggregating UK households’ electricity consumption with statistical & ML models at **EDF Energy R&D**.  
-- ⚡ **Impacting:** Quantifying carbon-footprint reductions from personalised energy-efficiency interventions.  
-- 📚 **Studying:** MSc in **Data Science** @ **The London School of Economics and Political Science** (2024-2025).  
-- 🌱 **Always Learning:** Deep learning, big-data pipelines, causal inference, and scalable cloud architectures.  
-- 📝 **Sharing:** Writing about sustainability & AI — stay tuned!
+- **Researching:** Disaggregating UK households’ electricity consumption with statistical & ML models at **EDF Energy R&D**.  
+- **Impacting:** Quantifying carbon-footprint reductions from personalised energy-efficiency interventions.  
+- **Studying:** MSc in **Data Science** @ **The London School of Economics and Political Science** (2024-2025).  
+- **Always Learning:** Agentic AI, big-data pipelines, and scalable cloud architectures.  
 
 ---
 
